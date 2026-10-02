@@ -8,7 +8,7 @@ I build and maintain Flutter and native iOS apps: contract development, technica
 
 ### Apps
 
-[Weeklie](https://weeklytimetable.app), a class timetable with 2.5 million iOS downloads, and four more apps on iOS, Android and macOS, published by [Proper Bits](https://properbits.com).
+[Weeklie](https://weeklytimetable.app), a class timetable with 2.5 million iOS downloads, and more apps on iOS, Android and macOS, published by [Proper Bits](https://properbits.com).
 
 ### Recent contract work
 
